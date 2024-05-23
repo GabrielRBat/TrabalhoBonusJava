@@ -1,4 +1,5 @@
-import java.io.IOException;
+package View;
+import java.io.IOException;  
 import Controllers.GerenciadorObras;
 import Models.Escultura;
 import Models.Fotografia;
